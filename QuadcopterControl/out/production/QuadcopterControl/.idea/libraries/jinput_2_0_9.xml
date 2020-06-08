@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jinput-2.0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Applications/jinput-2.0.9.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Applications" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Applications" />
+      <root url="jar://$PROJECT_DIR$/../Applications/jinput-2.0.9-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Applications" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Applications" recursive="false" type="SOURCES" />
+  </library>
+</component>
